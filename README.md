@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @camilosasuketbs
+- 👋 Hi, I’m @camilosasuketbs Camilo Sasuke Thomas Borregaard Sørensen
 - 👀 I’m interested in C++ in the context of ca2 Framework
 - 🌱 I’m always learning things related to ca2.
 - 💞️ I’m looking to collaborate on this platform.
